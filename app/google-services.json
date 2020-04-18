@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033368610644",
+    "firebase_url": "https://fotografpaylasma-7d804.firebaseio.com",
+    "project_id": "fotografpaylasma-7d804",
+    "storage_bucket": "fotografpaylasma-7d804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033368610644:android:e8c6997b969af356d7cac1",
+        "android_client_info": {
+          "package_name": "com.atilsamancioglu.fotografpaylasmakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033368610644-dh4rnjmqnclp1lj35quk83t4epidcnm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKXMrgT-9agGkcJUm1f4kqutPjAFWU7sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033368610644-dh4rnjmqnclp1lj35quk83t4epidcnm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
